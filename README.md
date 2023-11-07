@@ -5,11 +5,11 @@
 2. T Jin, B Li, Y Li, Q Zhou, Q Ma, Y Zhao, H Chen, J Cheng. Circinus: Fast Redundancy-Reduced Subgraph Matching (SIGMOD 2023) [paper](paper/sm_circinus.pdf)
 3. J Arai, Y Fujiwara, M Onizuka. GuP: Fast Subgraph Matching by Guard-based Pruning (SIGMOD 2023) [paper](paper/sm_gup.pdf)
 4. Vincenzo Bonnici, Rosalba Giugno, Alfredo Pulvirenti, Dennis Shasha, Alfredo Ferro. A subgraph isomorphism algorithm and its application to biochemical data (BMC Bioinformatics 2013) [paper](paper/sm_ri.pdf)
+5. S Sun, X Sun, Y Che, Q Luo, B He. RapidMatch: A Holistic Approach to Subgraph Query Processing (VLDB 2020)
 
 ## Approximate Subgraph Matching
 1. S Zhang, J Yang, W Jin. SAPPER: Subgraph Indexing and Approximate Matching in Large Graphs (VLDB 2010) [paper](paper/sm_sapper.pdf)
 2. Lihui Liu et al. G-Finder: Approximate Attributed Subgraph Matching (IEEE Big Data 2019) [paper](paper/sm_g_finder.pdf)
-3. Shubhangi Agarwal et al. VerSaChI: Finding Statistically Significant Subgraph Matches using Chebyshev’s Inequality (CIKM 2021) [paper](paper/sm_versachi.pdf)
 
 ## Continuous Subgraph Matching
 1. Kyoungmin Kim, In Seo, Wook-Shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, and Geonhwa Jeong. TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data (SIGMOD 2018) [paper](paper/csm_turboflux.pdf)
@@ -30,8 +30,11 @@ Semih Salihoglu. Graphflow: An active graph database (SIGMOD 2017) [paper](paper
 3. Siddhartha Sahu, Amine Mhedhbi, Semih Salihoglu, Jimmy Lin, and M. Tamer Özsu. The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing: Extended Survey (VLDB 2018) [paper](paper/db_ubiquity_of_large_graphs.pdf)
 4. Alin Deutsch et al. Graph Pattern Matching in GQL and SQL/PGQ (SIGMOD 2022) [paper](paper/db_gql.pdf)
 5. Changji Li, Hongzhi Chen, et al. ByteGraph: A High-Performance Distributed Graph Database in ByteDance (VLDB 2022) [paper](paper/db_bytegraph.pdf)
+6. D Olteanu, M Schleich. Factorized databases (SIGMOD 2016)
+7. Dan Olteanu, Jakub Závodný. Size Bounds for Factorised Representations of Query Results (ACM Transactions on Database Systems 2015)
+8. Amine Mhedhbi, Semih Salihoglu. Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins (VLDB 2019)
+9. Hung Q. Ngo, Christopher Ré, Atri Rudra. Skew Strikes Back: New Developments in the Theory of Join Algorithms (SIGMOD 2013)
 
 ## Other
 1. T Akiba, Y Iwata, Y Yoshida. Fast Exact Shortest-Path Distance Queries on Large Networks by Pruned Landmark Labeling (SIGMOD 2013) [paper](paper/o_2_hop_cover.pdf)
-2. Donna Xu, Ivor W. Tsang, and Ying Zhang. Online Product Quantization. (TKDE 2018) [paper](paper/o_online_product_quantization.pdf)
-3. Hiroshi Inoue, Moriyoshi Ohara, Kenjiro Taura. Faster set intersection with SIMD instructions by reducing branch mispredictions. (VLDB 2014) [paper](paper/o_set_intersection_simd.pdf)
+2. Hiroshi Inoue, Moriyoshi Ohara, Kenjiro Taura. Faster set intersection with SIMD instructions by reducing branch mispredictions. (VLDB 2014) [paper](paper/o_set_intersection_simd.pdf)
