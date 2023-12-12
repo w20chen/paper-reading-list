@@ -7,6 +7,32 @@
 4. Vincenzo Bonnici, Rosalba Giugno, Alfredo Pulvirenti, Dennis Shasha, Alfredo Ferro. A subgraph isomorphism algorithm and its application to biochemical data (BMC Bioinformatics 2013) [paper](paper/sm_ri.pdf)
 5. S Sun, X Sun, Y Che, Q Luo, B He. RapidMatch: A Holistic Approach to Subgraph Query Processing (VLDB 2020) [paper](https://dl.acm.org/doi/10.14778/3425879.3425888)
 6. Shixuan Sun, Yulin Che, Lipeng Wang, Qiong Luo. Efficient Parallel Subgraph Enumeration on A Single Machine (ICDE 2019) [paper](https://shixuansun.github.io/files/ICDE19-LIGHT.pdf)
+7. GSI: GPU-friendly Subgraph Isomorphism (ICDE 2020)
+8. G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph (ICDE 2020)
+9. FAST: FPGA-based Subgraph Matching on Massive Graphs (ICDE 2021)
+10. Leveraging Temporal and Topological Selectivities in Temporal-clique Subgraph Query Processing (ICDE 2021)
+11. FASI: FPGA-friendly Subgraph Isomorphism on Massive Graphs (ICDE 2023)
+12. Reinforcement Learning Enhanced Weighted Sampling for Accurate Subgraph Counting on Fully Dynamic Graph Streams (ICDE 2023)
+13. G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching (SIGMOD 2020)
+14. GPU-Accelerated Subgraph Enumeration on Partitioned Graphs (SIGMOD 2020)
+15. A Learned Sketch for Subgraph Counting (SIGMOD 2021)
+16. HUGE: An Efficient and Scalable Subgraph Enumeration System (SIGMOD 2021)
+17. Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching (SIGMOD 2021)
+18. Neural Subgraph Counting with Wasserstein Estimator (SIGMOD 2022)
+19. Efficient GPU-Accelerated Subgraph Matching (SIGMOD 2023)
+20. Efficient Streaming Subgraph Isomorphism with Graph Neural Networks (VLDB 2021)
+21. Subgraph Matching over Graph Federation (VLDB 2022)
+22. VINCENT: Towards Efficient Exploratory Subgraph Search in Graph Databases (VLDB 2022)
+23. SUFF: Accelerating Subgraph Matching with Historical Data (VLDB 2023)
+24. Distributed Subgraph Counting A General Approach (VLDB 2020)
+25. Fast subgraph query processing and subgraph matching via static and dynamic equivalences
+26. GraphSet: High Performance Graph Mining through Equivalent Set Transformations
+27. Pangolin: An Efficient and Flexible Graph Mining System on CPU and GPU
+28. PEREGRINE: A Pattern-Aware Graph Mining System
+29. Privacy and efficiency guaranteed social subgraph matching
+30. Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching
+31. Subgraph Matching With Effective Matching Order and Indexing
+32. Subgraph Query Generation with Fairness and Diversity Constraints
 
 ## Approximate Subgraph Matching
 1. S Zhang, J Yang, W Jin. SAPPER: Subgraph Indexing and Approximate Matching in Large Graphs (VLDB 2010) [paper](paper/sm_sapper.pdf)
