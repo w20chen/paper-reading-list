@@ -25,6 +25,10 @@
 29. Kai Huang, Haibo Hu, Shuigeng Zhou, Jihong Guan, Qingqing Ye, Xiaofang Zhou. Privacy and efficiency guaranteed social subgraph matching (VLDB 2021)
 30. Hanchen Wang, Ying Zhang, Lu Qin, Wei Wang, Wenjie Zhang, Xuemin Lin. Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching (ICDE 2022)
 32. Hanchao Ma, Sheng Guan, Mengying Wang, Yen-shuo Chang, Yinghui Wu. Subgraph Query Generation with Fairness and Diversity Constraints (ICDE 2022)
+33. Guanxian Jiang, Qihui Zhou, Tatiana Jin, Boyang Li, Yunjian Zhao, Yichao Li, James Cheng. VSGM: View-Based GPU-Accelerated Subgraph Matching on Large Graphs (SC 2022)
+34. Maciej Besta, et al. ProbGraph: High-Performance and High-Accuracy Graph Mining with Probabilistic Set Representations (SC 2022)
+35. Yihua Wei, Peng Jiang. STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimizations (SC 2022)
+36. Xuhao Chen, Arvind. Efficient and Scalable Graph Pattern Mining on GPUs (OSDI 2022)
 
 ## Approximate Subgraph Matching
 1. S Zhang, J Yang, W Jin. SAPPER: Subgraph Indexing and Approximate Matching in Large Graphs (VLDB 2010) [paper](paper/sm_sapper.pdf)
