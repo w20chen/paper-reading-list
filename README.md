@@ -15,7 +15,6 @@
 19. Xibo Sun, Qiong Luo. Efficient GPU-Accelerated Subgraph Matching (SIGMOD 2023)
 20. Chi Thang Duong, Trung Dung Hoang, Hongzhi Yin, Matthias Weidlich, Quoc Viet Hung Nguyen, Karl Aberer. Efficient Streaming Subgraph Isomorphism with Graph Neural Networks (VLDB 2021)
 21. Ye Yuan, Delong Ma, Zhenyu Wen, Zhiwei Zhang, Guoren Wang. Subgraph Matching over Graph Federation (VLDB 2022)
-22. Kai Huang, Qingqing Ye, Jing Zhao, Xi Zhao, Haibo Hu, Xiaofang Zhou. VINCENT: Towards Efficient Exploratory Subgraph Search in Graph Databases (VLDB 2022)
 23. X Jian, Z Li, L Chen. SUFF: Accelerating Subgraph Matching with Historical Data (VLDB 2023)
 24. H Zhang, JX Yu, Y Zhang, K Zhao, H Cheng. Distributed Subgraph Counting A General Approach (VLDB 2020)
 25. H Kim, Y Choi, K Park, X Lin, SH Hong, WS Han. Fast subgraph query processing and subgraph matching via static and dynamic equivalences (The VLDB journal, 2023)
