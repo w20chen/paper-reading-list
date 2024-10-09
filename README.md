@@ -1,5 +1,13 @@
 | Title                                                                                                                       | Author(s)              | Conference/Journal                   | Year | Tag(s)     |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------------|------|------------|
+| IVE: Accelerating Enumeration-Based Subgraph Matching via Exploring Isolated Vertices                                       | Zite Jiang             | ICDE                                 | 2024 |            |
+| NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs                                            | Ziming Li              | ICDE                                 | 2024 |            |
+| Time-Constrained Continuous Subgraph Matching Using Temporal Information for Filtering and Backtracking                     | Seunghwan Min          | ICDE                                 | 2024 |            |
+| GCSM: GPU-Accelerated Continuous Subgraph Matching for Large Graphs                                                         | Yihua Wei              | IPDPS                                | 2024 |            |
+| TC-Match: Fast Time-constrained Continuous Subgraph Matching                                                                | Jianye Yang            | VLDB                                 | 2024 |            |
+| Efficient Exact Subgraph Matching via GNN-Based Path Dominance Embedding                                                    | Yutong Ye              | VLDB                                 | 2024 |            |
+| In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework                             | Yukyoung Lee           | SIGMOD                               | 2024 |            |
+| Faster Depth-First Subgraph Matching on GPUs                                                                                | Lyuheng Yuan           | ICDE                                 | 2024 | SM;GPU     |
 | "A Comprehensive Survey and Experimental Study of Subgraph Matching: Trends, Unbiasedness, and Interaction"                 | Zhijie Zhang           | SIGMOD                               | 2024 | SM         |
 | GPU-Accelerated Batch-Dynamic Subgraph Matching                                                                             | Linshan Qiu            | ICDE                                 | 2024 | SM;CSM;GPU |
 | A survey of continuous subgraph matching for dynamic graphs                                                                 | Xi Wang                | Knowledge and Information Systems    | 2023 | CSM        |
